@@ -1,6 +1,6 @@
 # challenge5-pymaceuticals
 
-The goal of this assignment is to use jupyter notebook to make calculations, create tables, and different types of graphs in order to make analytical observations and conclusions. 
+The goal of this assignment is to use jupyter notebook to make calculations, create tables, and different types of graphs in order to make analytical observations and conclusions about the treatments that are being administered to to mice in order to reduce tumors. 
 
 Background
 
