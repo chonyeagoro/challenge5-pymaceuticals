@@ -14,5 +14,5 @@ Analysis
 - 51% of the mice in the experiment that had tumors were male while the other 49% were female. 
 - The bar graph shows that the Capomulin treatment performs the best in terms of reducing the size of tumors with the number of its timepoints being over 200 (somewhere around 240). In addition, Ramicane is the second best treatment after Capomulin with it having somewhere around 235 timepoints. On the other hand, the graph also shows that the least effective treatment is the Propriva with it's timepoints being around 140. 
 - On the line graph, it shows that after 20 days, there was a sudden drop in the tumor volume (from 48 mm3 to 44 mm3) with the Capomulin treatment.
-- Through the analysis, there is a positive correlation between the weight of the mice and the average tumor volume with the value correlation being 0.84. 
+- Through the analysis, there is a positive correlation between the weight of the mice and the average tumor volume with the value correlation being 0.84 and the points and line on the graph trending upwards. 
 - From the data, tables, and graphs presented, Capomulin and Ramicane are the most effective treatments for reducing the size of tumors. 
